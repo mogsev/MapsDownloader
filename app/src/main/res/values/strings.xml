@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">Maps Downloader</string>
+
+    <string name="title_download_maps">Download maps</string>
+    <string name="device_memory">Device memory</string>
+    <string name="device_free_memory">Free %1$s</string>
+    <string name="world_regions">World Regions</string>
+    <string name="title_activity_region">RegionActivity</string>
+
+    <string name="no_regions">No regions</string>
+
+</resources>
